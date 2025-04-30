@@ -1,6 +1,6 @@
 function Projects() {
     return (
-      <div>
+      <div className="container">
         <h1>Projects</h1>
         <ul>
           <li>
