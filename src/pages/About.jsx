@@ -2,8 +2,8 @@ function About() {
     return (
       <div className="container">
         <h1>About Me</h1>
-        <p>I am a web developer passionate about React and building cool stuff.</p>
-        <p>Hobbies: Coding, Gaming, Photography</p>
+        <p>I am 3rd year IT student from Pamantasan ng Cabuyao.</p>
+        <p>Hobbies: Coding, Crocheting, Singing</p>
       </div>
     );
   }
